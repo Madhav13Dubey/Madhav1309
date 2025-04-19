@@ -43,7 +43,7 @@ I’m passionate about:
 
 ### 💌 Let's Connect!
 
-- 📬 **Email:** [madhav1309@gmail.com](mailto:madhav1309@gmail.com)
+- 📬 **Email:** [madhavdubey139@gmail.com](mailto:madhavdubey139@gmail.com)
 - 💼 **LinkedIn:** [Madhav Dubey](https://www.linkedin.com/in/madhav-dubey-53b95631a/)
 - 📸 [**Instagram**](https://www.instagram.com/madhavdubey139/) ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)
 - 🔗 [**Facebook**](https://www.facebook.com/madhav.dubey.587/) ![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)
