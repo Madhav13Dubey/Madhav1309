@@ -1,6 +1,31 @@
-# 👋 Hello, I'm Madhav Dubey!
+<div align="center">
 
-Welcome to my GitHub!  
+```
+┌───────────────────────────────────────────────────────────────────────────────┐
+│                                                                               │
+│   ██     ██ ███████ ██       ██████  ██████  ███    ███ ███████ ██          │
+│   ██     ██ ██      ██      ██      ██    ██ ████  ████ ██      ██          │
+│   ██  █  ██ █████   ██      ██      ██    ██ ██ ████ ██ █████   ██          │
+│   ██ ███ ██ ██      ██      ██      ██    ██ ██  ██  ██ ██                  │
+│    ███ ███  ███████ ███████  ██████  ██████  ██      ██ ███████ ██          │
+│                                                                               │
+└───────────────────────────────────────────────────────────────────────────────┘
+```
+
+
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Sedan+SC&size=40&weight=600&duration=5000&pause=700&color=F5F5F5&background=15151500&center=true&vCenter=true&random=false&width=800&lines=Hi+there%2C+I'm+Madhav+Dubey;Technology+and+Coding+Enthusiast" alt="Typing SVG"/>
+</div>
+
+
+
+
+
+
+# 👋Welcome to my GitHub!  
+
 Just a curious mind on a journey of turning **logic into code** and **ideas into impact** 🚀
 
 🎓 A dedicated B.Tech student in Artificial Intelligence & Machine Learning at Birla Institute of Technology, Mesra, shaping ideas into impactful tech solutions.
@@ -13,14 +38,20 @@ I’m passionate about:
 
 ---
 
-### ⚙️ Tech Stack
-- **Languages:** `C++` | `JavaScript` | `Python`
-- **Frontend:** `HTML` | `CSS` | `ReactJS` | `TailwindCSS`
-- **Backend:** `Node.js` | `Express.js` | `MongoDB`
-- **Tools:** `Git` | `VS Code` | `Postman` | `Insomnia`
-- **Currently Learning:** `AI/ML` with `Scikit-learn` & `TensorFlow`
+### 💻 Tech Stack and Tools
+
+| Category | Skills and Icons |
+|----------|------------------|
+| **Programming Languages** | ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+| **Frontend Development** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |
+| **Backend & Database** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) |
+| **Version Control & Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) |
+| **API Testing** | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white) |
+| **Currently Learning** | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="28"/>](https://scikit-learn.org/stable/) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) |
+
 
 ---
+
 
 ### 🧠 DSA & CP Profiles
 
