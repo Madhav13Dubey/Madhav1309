@@ -64,7 +64,7 @@ I’m passionate about:
 
 ### 🌱 Currently Working On
 
-- Developing a comprehensive **Hospital Management System** 🏥  
+- 🔐 Developing an **AI-Powered Pattern Matching System** for Advanced Cybersecurity Threat Detection
 - Developing and refining **Chat Xplore**, an innovative platform that tracks and organizes message history for both group and individual chats, enhancing user experience and communication 📲💬
 - Sharpening my core programming and full-stack development skills through hands-on practice and personal projects  
 - Exploring real-world applications of **AI/ML** through creative mini-projects and smart automation ideas 🤖
